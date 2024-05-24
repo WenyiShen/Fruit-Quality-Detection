@@ -139,5 +139,7 @@ SOFTWARE.
 We would like to express our sincere gratitude to all individuals who have contributed to this project. If you have any questions, feel free to contact me at any time.
 
 Shaohua Yu (shaohua.yu@njust.edu.cn)
+
 Wenyi Shen (shenwenyi@njust.edu.cn)
+
 Jun Xu (xujun@xidian.edu.cn)
