@@ -10,7 +10,7 @@
 
 Food quality, particularly the quality of fruits, is a significant concern for consumer health and agricultural value. Traditional manual detection methods are inefficient and subjective. This project aims to provide a real-time, accurate, and automated solution for fruit quality detection using computer vision technology.
 
-This repository contains the source code, documentation, and datasets for the research paper titled "An Attention-Based Improved YOLOv8 Method for Real-Time Fruit Quality Detection". The study introduces an automated method for detecting the quality of fruits using an enhanced version of the YOLOv8 model, which incorporates data augmentation, self-attention mechanisms, and acceleration algorithms.
+The study introduces an automated method for detecting the quality of fruits using an enhanced version of the YOLOv8 model, which incorporates data augmentation, self-attention mechanisms, and acceleration algorithms.
 
 #### Key Features
 
@@ -100,7 +100,7 @@ model = YOLO("yolov8n.yaml")  # build a new model from scratch
 model = YOLO("yolov8n.pt")  # load a pretrained model (recommended for training)
 
 # Use the model
-model.train(data="coco128.yaml", epochs=3)  # train the model
+model.train(data="mydata.yaml", epochs=20)  # train the model
 metrics = model.val()  # evaluate model performance on the validation set
 results = model("https://ultralytics.com/images/bus.jpg")  # predict on an image
 path = model.export(format="onnx")  # export the model to ONNX format
