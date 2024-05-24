@@ -2,7 +2,7 @@
 # Fruit-Quality-Detection
 
 <div>
-    <a href="https://doi.org/10.5281/zenodo.11273739"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11273739.svg" alt="DOI"></a>
+    <a href="https://doi.org/10.5281/zenodo.11280901"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11280901.svg" alt="DOI"></a>
   </div>
   <br>
 
