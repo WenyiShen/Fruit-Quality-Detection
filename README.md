@@ -133,3 +133,11 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## <div align="center">Acknowledgments</div>
+
+We would like to express our sincere gratitude to all individuals who have contributed to this project. If you have any questions, feel free to contact me at any time.
+
+Shaohua Yu (shaohua.yu@njust.edu.cn)
+Wenyi Shen (shenwenyi@njust.edu.cn)
+Jun Xu (xujun@xidian.edu.cn)
