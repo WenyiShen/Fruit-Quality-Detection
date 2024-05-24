@@ -1,0 +1,4 @@
+apple
+bad banana
+banana
+bad apple
